@@ -1,5 +1,5 @@
 # Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
-##Date:
+Date:
 07-10-2026
 
 ## AIM
